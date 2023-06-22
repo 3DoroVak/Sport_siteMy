@@ -1,3 +1,7 @@
+body {
+    background-color: #1cabcf;
+}
+
 .header {
     position: relative;
     width: 100%;
@@ -25,7 +29,7 @@
     position: absolute;
     top: 18px;
     left: 85%;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 19.2px;
     line-height: 19px;
     font-weight: 500;
@@ -42,7 +46,7 @@
     position: absolute;
     top: 18px;
     left: 75%;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 19.2px;
     line-height: 19px;
     font-weight: 500;
@@ -59,7 +63,7 @@
     position: absolute;
     top: 18px;
     left: 66%;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 19.2px;
     line-height: 19px;
     font-weight: 500;
@@ -76,7 +80,7 @@
     position: absolute;
     top: 18px;
     left: 56%;
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 19.2px;
     line-height: 19px;
     font-weight: 500;
@@ -87,4 +91,86 @@
 
 .home_header:hover {
     color: #1cabcf;
+}
+
+.fitness_header {
+    font-family: 'Raleway', sans-serif;
+    font-size: 26.2px;
+    line-height: 1.2;
+    font-weight: 700;
+    letter-spacing: -0.025em;
+    color: #ffffff;
+    position: absolute;
+    left: 13%;
+    top: 8px;
+}
+
+.gym_header {
+    font-family: 'Raleway', sans-serif;
+    font-size: 26.2px;
+    line-height: 1.2;
+    letter-spacing: -0.025em;
+    font-weight: 800;
+    color: #1cabcf;
+}
+
+.tagline_header {
+    font-family: 'Raleway', sans-serif;
+    font-size: 9.4px;
+    line-height: 1.2;
+    font-weight: 400;
+    letter-spacing: 0.2em;
+    color: #ffffff;
+    position: absolute;
+    top: 36px;
+    left: 14%;
+}
+
+.sport_header {
+    font-family: 'Raleway', sans-serif;
+    font-size: 175.2px;
+    line-height: 1.2;
+    font-weight: 900;
+    color: #ffffff;
+}
+
+.pSport_headers {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 21.8px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.DIV_sport_header {
+    position: relative;
+    top: 240px;
+    text-align: center;
+}
+
+.DIV_sport_headerP {
+    position: relative;
+    top: 150px;
+    text-align: center;
+}
+
+.button_header {
+    width: 256px;
+    height: 60px;
+    opacity: 0.8;
+    background-color: #ffffff;
+    border-radius: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    line-height: 1.2;
+    font-weight: 700;
+    color: #1cabcf;
+}
+
+.DIV_header {
+    position: absolute;
+    width: 100%;
+    top: 800px;
+    text-align: center;
 }
