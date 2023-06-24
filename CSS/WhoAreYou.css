@@ -1,0 +1,39 @@
+.WhoAreWe {
+    position: absolute;
+    width: 100vw;
+    background-color: black;
+    height: 500px;
+    top: 65vw;
+}
+
+.div_h2_Who {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 100px;
+}
+
+.h2_WhoAreWe {
+    font-family: 'Raleway', sans-serif;
+    font-size: 29.2px;
+    line-height: 1.2;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #1cabcf;
+}
+
+.div_p_Who {
+    position: absolute;
+    width: 100%;
+    top: 200px;
+    text-align: center;
+}
+
+.p_Who {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18.8px;
+    line-height: 33px;
+    font-weight: 400;
+    color: #ffff;
+    opacity: 0.9;
+}
