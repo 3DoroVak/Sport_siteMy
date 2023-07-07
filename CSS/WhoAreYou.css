@@ -1,9 +1,8 @@
 .WhoAreWe {
-    position: absolute;
-    width: 100vw;
+    position: relative;
+    width: 100%;
     background-color: black;
     height: 500px;
-    top: 65vw;
 }
 
 .div_h2_Who {

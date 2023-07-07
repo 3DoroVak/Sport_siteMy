@@ -1,0 +1,63 @@
+.prioritet {
+    background-image: url('/IMAGE/preoritets.jpg');
+    background-size: 100%;
+    height: 80vw;
+}
+
+.h2_proritet {
+    font-family: 'Raleway', sans-serif;
+    font-size: 29.2px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #1cabcf;
+}
+
+.div_h2_prioritet {
+    position: relative;
+    text-align: center;
+    top: 8vw;
+}
+
+.div_p_prioritet {
+    position: relative;
+    text-align: center;
+    top: 11vw;
+}
+
+.p_prioritet {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20.9px;
+    line-height: 33px;
+    font-weight: 500;
+    color: #31332e;
+}
+
+.prioritet_conteiner {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.prioritet_items {
+    width: 367px;
+height: 366px;
+opacity: 0.8;
+background-color: #202020;
+}
+
+.span_prioritet {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16.7px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.p_prioritet_item {
+    font-family: 'Lora', serif;
+    font-size: 16.7px;
+    line-height: 1.2;
+    font-weight: 400;
+    color: #ffffff;
+}

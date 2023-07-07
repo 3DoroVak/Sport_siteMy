@@ -1,0 +1,35 @@
+.reasons {
+    background-color: #222222;
+    position: relative;
+    height: 375px;
+    text-align: center;
+}
+
+
+.reasons_conteiner {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 120px;
+}    
+
+.reasons_item {
+    padding: 0 40px;
+}
+
+.reasons_span {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18.7px;
+    line-height: 33px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ffffff;
+}
+
+.reasons_p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16.7px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #ffffff;
+}
